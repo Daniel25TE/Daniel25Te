@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <br>
-![Background GIF](https://i.pinimg.com/736x/f3/34/26/f334265c7b2d22ebce8a452af3334266.jpg)
+![Background GIF](https://i.pinimg.com/736x/af/45/59/af4559c2f63e798bbfb9030203871092.jpg)
 
 
 <!--
