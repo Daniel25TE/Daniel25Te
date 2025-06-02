@@ -1,5 +1,8 @@
 ## Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![Background GIF](https://www.pinterest.com/pin/155303888050464926/)
+
+
 <!--
 **Daniel25TE/Daniel25Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
