@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![Background GIF](https://www.pinterest.com/pin/155303888050464926/)
+![Background GIF](https://i.pinimg.com/736x/f3/34/26/f334265c7b2d22ebce8a452af3334266.jpg)
 
 
 <!--
