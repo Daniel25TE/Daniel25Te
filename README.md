@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a software developer student at BYU-Idaho, and I will graduate in April 2026.
-I'm currently working on the **"Maribao website"**, a project for a real company where people will be able to place reservations for the Maribao hotel. My project will use HTML, CSS, and JavaScript for the frontend deployment and C#, .NET, and AWS for the backend and cloud services.
+# I'm a passionate software developer student at BYU-Idaho, and I will graduate in April 2026.
+I'm currently working on different web projects, but the biggest one is the **"Maribao website"**, a project for a real company where people will be able to place reservations for the Maribao hotel located in Gral. Villamil Playas - Ecuador. My project is using HTML5, CSS3 (with some Tailwind), and modular JavaScript (Vanilla) for the frontend deployment and C#, Node.js, and Render for the backend and cloud services.
 
-I will keep posting and updating you throughout this project.
+I invite you to take a look at my repositories!
