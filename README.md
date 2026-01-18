@@ -47,6 +47,6 @@ I'm also developing multiple web projects, including the **"Maribao website"**, 
 • Building real‑world web apps from scratch (frontend + backend)
 
 ## Let's Connect!
-- Here is my [www.linkedin.com/in/daniel-a-llumiquinga-219758311]  profile
+- Here is my LinkedIn (www.linkedin.com/in/daniel-a-llumiquinga-219758311)  profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
