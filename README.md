@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # I'm a passionate software development student at BYU–Idaho, currently working as a Software Engineer Intern at FamilySearch.
 
-##About Me
+## About Me
 I'm a Software Engineer Intern at FamilySearch, where I work on backend development using Java, Python, AWS, and NoSQL. I help build and maintain APIs for the Engineering Tools Portal, support CI/CD and code quality workflows, and contribute to debugging, testing, and infrastructure improvements across the platform.
 
 I'm also developing multiple web projects, including the **"Maribao website"**, a real company project where users can book reservations for a hotel in Gral. Villamil Playas, Ecuador. The stack includes HTML5, CSS3/Tailwind, and modular Vanilla JavaScript on the frontend, with C#, Node.js, and Render powering the backend and cloud services.
