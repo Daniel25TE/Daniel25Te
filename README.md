@@ -18,7 +18,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a passionate software developer student at BYU-Idaho, and I will graduate in April 2026.
-I'm currently working on different web projects, but the biggest one is the **"Maribao website"**, a project for a real company where people will be able to place reservations for the Maribao hotel located in Gral. Villamil Playas - Ecuador. My project is using HTML5, CSS3 (with some Tailwind), and modular JavaScript (Vanilla) for the frontend deployment and C#, Node.js, and Render for the backend and cloud services.
+# I'm a passionate software development student at BYU–Idaho, currently working as a Software Engineer Intern at FamilySearch.
 
-I invite you to take a look at my repositories!
+##About Me
+I'm a Software Engineer Intern at FamilySearch, where I work on backend development using Java, Python, AWS, and NoSQL. I help build and maintain APIs for the Engineering Tools Portal, support CI/CD and code quality workflows, and contribute to debugging, testing, and infrastructure improvements across the platform.
+
+I'm also developing multiple web projects, including the **"Maribao website"**, a real company project where users can book reservations for a hotel in Gral. Villamil Playas, Ecuador. The stack includes HTML5, CSS3/Tailwind, and modular Vanilla JavaScript on the frontend, with C#, Node.js, and Render powering the backend and cloud services.
+
+## Technologies and Tools
+
+- Proficient in:
+• Java
+• Python
+• JavaScript (Modular/Vanilla)
+• C#
+• AWS (Lambda, API Gateway, DynamoDB, S3)
+• Git & GitHub
+• CI/CD Pipelines
+
+- Skills:
+• Backend development and API design
+• Unit testing, debugging, and defect resolution
+• Documentation, workflow mapping, and cross‑team collaboration
+• Cloud services integration and infrastructure updates
+• Code quality and static analysis (SonarQube)
+• Log monitoring and troubleshooting (Splunk)
+• Modular architecture and clean coding practices
+• Building real‑world web apps from scratch (frontend + backend)
+
+## Let's Connect!
+- Here is my [LinkedIn] www.linkedin.com/in/daniel-a-llumiquinga-219758311 profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
